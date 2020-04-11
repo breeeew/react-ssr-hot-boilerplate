@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "downlevelIteration": true,
+      "target": "esnext",
+      "module": "commonjs",
+      "moduleResolution": "node"
+    }
+}
